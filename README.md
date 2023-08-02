@@ -8,7 +8,7 @@ but it is an intersting topic anyway this is not a networking course so let's ge
 # Welocme to Cyper secuirty 
 for this you will need to have a cup of coffee or something to drink before we begin
 and we will need some hacker music so this will do [Watch Dogs](https://www.youtube.com/watch?v=OBRdjjRTt6c)
-also i would like to mention Amr Mansour the Requester of this tutorial and probably the only promoter as well
+also i would like to mention Amr Mansour the requester of this tutorial and probably the only promoter as well
 Thank you Amr
 # Step 1 : installing openVPN
 ## Installing on Windwos 
