@@ -5,7 +5,7 @@ for some reason with the ISPs in Egypt you might have problems connection to an 
 and for time being TryHackMe doesn't provide a [TCP](https://www.freecodecamp.org/news/tcp-vs-udp/) config file, we won't cover the differences between [UDP](https://www.freecodecamp.org/news/tcp-vs-udp/) and [TCP](https://www.freecodecamp.org/news/tcp-vs-udp/)
 but it is an intersting topic anyway this is not a networking course so let's get into it
 # Prerequisite
-# Welocme to Cyper secuirty 
+# Welocme to Cyper security 
 for this you will need to have a cup of coffee or something to drink before we begin
 and we will need some hacker music so this will do [Watch Dogs](https://www.youtube.com/watch?v=OBRdjjRTt6c)
 also i would like to mention Amr Mansour the requester of this tutorial and probably the only promoter as well
