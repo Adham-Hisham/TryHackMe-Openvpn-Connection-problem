@@ -6,4 +6,16 @@ and for time being TryHackMe doesn't provide a [TCP](https://www.freecodecamp.or
 but it is an intersting topic anyway this is not a networking course so let's get into it
 # Step 1 : installing openVPN
 ## Installing on Windwos 
+We will be using Winget package manager open the terminal and enter this command 
+
+    winget install -e --id OpenVPNTechnologies.OpenVPN
+## Installing on MacOS
+We will be using homebrew package manager open the terminal and enter this command 
+
+    brew install openvpn
+## Installing on Linux (Debian)
+We will be using APT package manager open the terminal and enter this command 
+
+    sudo apt install openvpn
+
 
