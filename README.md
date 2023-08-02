@@ -1,4 +1,4 @@
-# TryHackMe OpenVPM Connection Problem
+# TryHackMe OpenVPN Connection Problem
 In this tutorial you will be able to connect to TryHackMe OpenVPN server in Egypt without a problem
 # The Problem Description
 for some reason with the ISPs in Egypt you might have problems connection to an openVPN service with a [UDP](https://www.freecodecamp.org/news/tcp-vs-udp/) config
