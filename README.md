@@ -45,6 +45,7 @@ so it will look like this
 ## downlaod the config file from TryHackMe
 go to [TryHackMe](https://tryhackme.com/)
 ## after downloading the config file
+open a different terminal don't close the first one yet
 now we are going to connect to it using the same way
 
     openvpn filename.ovpn
